@@ -1,6 +1,6 @@
-### Jooeun✨
+### Jooeun✨<br><br>
 
-📌 I'm currently learning **React**, **React-native**, **Javascript** and **TypeScript**.
+📌 I'm currently learning **React**, **React-native**, **Javascript** and **TypeScript**.<br>
 🎁 I'm interested in **user-friendly technology**.
 
 <!--
