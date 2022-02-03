@@ -1,4 +1,7 @@
-### Hi there 👋
+### Jooeun✨
+
+📌 I'm currently learning **React**, **React-native**, **Javascript** and **TypeScript**.
+🎁 I'm interested in **user-friendly technology**.
 
 <!--
 **Jooeun-K/Jooeun-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
