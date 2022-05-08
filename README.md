@@ -3,9 +3,9 @@
 ### Jooeun✨<br/><br/>
 📌 I'm currently learning **React**, **Next.js**, **Javascript** and **TypeScript**.<br/>
 🎁 I'm interested in **user-friendly technology**.
-<br/><br/>
-사용자 친화적 기술에 관심이 많은 **겁 없는 프론트엔드 개발자** 강주은입니다.
-<br/><br/>
+<!-- <br/><br/>
+사용자 친화적 기술에 관심이 많은 **겁 없는 프론트엔드 개발자** 강주은입니다. -->
+<!-- <br/><br/> -->
 
 #### ✔ Stack
 
