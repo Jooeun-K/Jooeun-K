@@ -1,6 +1,6 @@
 <div align="center">
 
-### Jooeun✨<br/><br/>
+### Jooeun✨ - Web frontend developer<br/><br/>
 📌 I'm currently learning **React**, **Next.js**, **Javascript** and **TypeScript**.<br/>
 🎁 I'm interested in **user-friendly technology**.
 <!-- <br/><br/>
