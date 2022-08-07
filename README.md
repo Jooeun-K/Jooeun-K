@@ -1,5 +1,8 @@
 <div align="center">
 
+   ![sea-profile](https://user-images.githubusercontent.com/90050960/183294817-787fcdc2-0a4e-40da-bcad-c3ead68369a2.gif)
+   
+   
 ### Jooeun✨ - Web frontend developer<br/><br/>
 📌 I'm currently learning **React**, **Next.js**, **Javascript** and **TypeScript**.<br/>
 I'm interested in **user-friendly technology**.   
