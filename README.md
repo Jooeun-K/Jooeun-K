@@ -24,5 +24,5 @@ I'm interested in **user-friendly technology**.
 <a href="https://guuumi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/> <a href="mailto:gangjoo93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square"/>
    
    <br/><br/>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jooeun-K&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jooeun-K&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jooeun-K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
