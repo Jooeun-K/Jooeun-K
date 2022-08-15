@@ -21,7 +21,7 @@ I'm interested in **user-friendly technology**.
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
    
 #### ✔ Link
-<a href="https://guuumi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/> <a href="mailto:gangjoo93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square"/>
+<a href="https://guuumi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/> <a href="https://geode-push-599.notion.site/Jooeun-5e1e7a01cd3947c5a905485164587a19" target="_blank"><img src="https://img.shields.io/badge/Resume-77a102?style=flat-square"/> <a href="mailto:gangjoo93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square"/>
    
    <br/><br/>
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jooeun-K&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jooeun-K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
