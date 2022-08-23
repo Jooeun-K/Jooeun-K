@@ -4,9 +4,7 @@
    
    
 ### Jooeun✨ - Web frontend developer<br/><br/>
-📌 I'm currently learning **React**, **Next.js**, **Javascript** and **TypeScript**.<br/>
-I'm interested in **user-friendly technology**.   
-   
+
 📌 **사용자 친화적 개발**에 관심이 많은 프론트엔드 개발자 강주은입니다.   
 현재 **Next.js**와 **Typescript**를 메인으로 다양한 프로젝트를 진행하고 있습니다.   
   
