@@ -1,12 +1,4 @@
 <div align="center">
-
-### Jooeun✨ - Web frontend developer<br/><br/>
-
-**사용자 친화적 개발**에 관심이 많은 프론트엔드 개발자 강주은입니다.   
-
-<a href="https://guuumi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/></a> <a href="https://jooeun-k.github.io/TIL/" target="_blank"><img src="https://img.shields.io/badge/TIL-a5ebda?style=flat-square"/></a>
-  
----
    
 #### ✔ Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Emotion-d36ac2?style=flat-square"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
