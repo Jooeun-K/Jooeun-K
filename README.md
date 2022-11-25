@@ -3,7 +3,6 @@
 ### Jooeun✨ - Web frontend developer<br/><br/>
 
 **사용자 친화적 개발**에 관심이 많은 프론트엔드 개발자 강주은입니다.   
-현재 **Next.js**와 **Typescript**를 메인으로 다양한 프로젝트를 진행하고 있습니다.   
 
 <a href="https://guuumi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/></a> <a href="https://jooeun-k.github.io/TIL/" target="_blank"><img src="https://img.shields.io/badge/TIL-a5ebda?style=flat-square"/></a>
   
