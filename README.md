@@ -5,6 +5,7 @@
 - `UX/UI 향상`을 통하여 얻을 수 있는 비즈니스 성장
 - 개발 리소스를 효율적으로 사용하여 `필요한 문제 해결에 집중`하는 것
 - `스프린트`와 `애자일` 등 빠른 속도의 비즈니스 환경에 맞는 `개발 방법론`
+- 유도🥋, 영화🎥, 사람 냄새 나는 이야기
 
    
 
@@ -15,5 +16,5 @@
    
 #### ✔ Studying
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>   
-Storybook과 Vitest 등의 프론트엔드 테스트 도구
+Storybook과 Vitest 등의 프론트엔드 테스트 도구   
 </div>
